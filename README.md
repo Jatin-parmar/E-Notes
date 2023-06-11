@@ -9,8 +9,8 @@ Due to the $5 requirement for Creating Chrome Store Developer Account & deployin
 1. Clone or download this repository to your local machine.
 2. Open Google Chrome and type `chrome://extensions` in the address bar.
 3. Toggle on the "Developer mode" switch located at the top-right corner.
-4. Click on the "Load unpacked" button and select the cloned/downloaded repository folder.
-5. The E-Notes extension will be loaded and available in your Chrome browser.
+4. Click on the "Load unpacked" button and select the cloned or downloaded repository and click on build folder.
+5. The E-Notes extension will be loaded and available in your Chrome browser & pin it for easy access.
 
 ## Features
 
