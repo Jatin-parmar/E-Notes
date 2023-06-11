@@ -1,4 +1,4 @@
-# E-Notes  <img align="right" src="https://github.com/Jatin-parmar/E-Notes/blob/main/public/icons.png" alt="Extension Icon" width="80" height="80">
+# E-Notes  <img align="right" src="https://github.com/Jatin-parmar/E-Notes/blob/main/public/icons.png" alt="Extension Icon" width="100" height="100">
 
 This is a Chrome extension that allows you to take and manage notes directly in your browser.
 
