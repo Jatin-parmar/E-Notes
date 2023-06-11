@@ -14,10 +14,11 @@ Due to the $5 requirement for Creating Chrome Store Developer Account & deployin
 
 ## Features
 
-- **Purpose:**Take and save notes directly in your browser Anywhere & Everywhere.
+- **Purpose:** Take and save notes directly in your browser Anywhere & Everywhere.
 - **Local Storage:** All notes are stored locally within your browser, ensuring privacy and accessibility.
 - **Theme Support:** Choose between two different themes - normal and dark mode - to customize the appearance of the extension.
 - **No Limitations:** Create an unlimited number of notes, and write as many words or characters as needed, without any restrictions.
 
 
-Don't Forget To Star The Repo For Easy Access In Future & Follow Me.
+
+**Don't Forget To Star The Repo For Easy Access In Future & Follow Me.**
