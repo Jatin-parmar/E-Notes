@@ -2,7 +2,7 @@
 
 This is a Chrome extension that allows you to take and manage notes directly in your browser.
 
-## Installation 
+## Installation
 
 Due to the $5 requirement for Creating Chrome Store Developer Account & deploying this extension on the Chrome Web Store, I am unable to provide a direct installation link. However, you can still add this extension to your Chrome browser by following these steps:
 
