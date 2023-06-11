@@ -12,7 +12,7 @@ Due to the $5 requirement for Creating Chrome Store Developer Account & deployin
 4. Click on the "Load unpacked" button and select the cloned or downloaded repository and click on build folder.
 5. The E-Notes extension will be loaded and available in your Chrome browser & pin it for easy access.
 
-## Features
+## Features 
 
 - **Purpose:** Take and save notes directly in your browser Anywhere & Everywhere.
 - **Local Storage:** All notes are stored locally within your browser, ensuring privacy and accessibility.
